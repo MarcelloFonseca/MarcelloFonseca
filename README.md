@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects that blend technology with wellness, particularly those that aim to make health practices more accessible, engaging, and effective through digital innovation. Keen on partnerships that push the boundaries of what's possible in the intersection of tech and yoga.
 
-📫 How to reach me: Feel free to connect with me via email at marcellof@eogalife.com or reach out on LinkedIn. I'm always open to discussing new ideas, opportunities for collaboration, or just exchanging thoughts on the future of technology in wellness.
+📫 How to reach me: Feel free to connect with me via email at marcellof@rentrr.life or reach out on LinkedIn. I'm always open to discussing new ideas, opportunities for collaboration, or just exchanging thoughts on the future of technology in wellness.
 
 <!---
 MarcelloFonseca/MarcelloFonseca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
